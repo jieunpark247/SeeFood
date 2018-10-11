@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  SeeFood
 //
-//  Created by 류성원 on 2018. 9. 30..
-//  Copyright © 2018년 Sungwon Lyu. All rights reserved.
-//
+
 
 import UIKit
 
